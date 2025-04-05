@@ -1,0 +1,14 @@
+C:\DSA - UC San Diego\DSAHomework\DSAHomework2_All\DSAHomework2\DSAHomework2\bin\Debug\net8.0\DSAHomework2.exe
+C:\DSA - UC San Diego\DSAHomework\DSAHomework2_All\DSAHomework2\DSAHomework2\bin\Debug\net8.0\DSAHomework2.deps.json
+C:\DSA - UC San Diego\DSAHomework\DSAHomework2_All\DSAHomework2\DSAHomework2\bin\Debug\net8.0\DSAHomework2.runtimeconfig.json
+C:\DSA - UC San Diego\DSAHomework\DSAHomework2_All\DSAHomework2\DSAHomework2\bin\Debug\net8.0\DSAHomework2.dll
+C:\DSA - UC San Diego\DSAHomework\DSAHomework2_All\DSAHomework2\DSAHomework2\bin\Debug\net8.0\DSAHomework2.pdb
+C:\DSA - UC San Diego\DSAHomework\DSAHomework2_All\DSAHomework2\DSAHomework2\obj\Debug\net8.0\DSAHomework2.GeneratedMSBuildEditorConfig.editorconfig
+C:\DSA - UC San Diego\DSAHomework\DSAHomework2_All\DSAHomework2\DSAHomework2\obj\Debug\net8.0\DSAHomework2.AssemblyInfoInputs.cache
+C:\DSA - UC San Diego\DSAHomework\DSAHomework2_All\DSAHomework2\DSAHomework2\obj\Debug\net8.0\DSAHomework2.AssemblyInfo.cs
+C:\DSA - UC San Diego\DSAHomework\DSAHomework2_All\DSAHomework2\DSAHomework2\obj\Debug\net8.0\DSAHomework2.csproj.CoreCompileInputs.cache
+C:\DSA - UC San Diego\DSAHomework\DSAHomework2_All\DSAHomework2\DSAHomework2\obj\Debug\net8.0\DSAHomework2.dll
+C:\DSA - UC San Diego\DSAHomework\DSAHomework2_All\DSAHomework2\DSAHomework2\obj\Debug\net8.0\refint\DSAHomework2.dll
+C:\DSA - UC San Diego\DSAHomework\DSAHomework2_All\DSAHomework2\DSAHomework2\obj\Debug\net8.0\DSAHomework2.pdb
+C:\DSA - UC San Diego\DSAHomework\DSAHomework2_All\DSAHomework2\DSAHomework2\obj\Debug\net8.0\DSAHomework2.genruntimeconfig.cache
+C:\DSA - UC San Diego\DSAHomework\DSAHomework2_All\DSAHomework2\DSAHomework2\obj\Debug\net8.0\ref\DSAHomework2.dll
