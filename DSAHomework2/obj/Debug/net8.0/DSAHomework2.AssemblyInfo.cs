@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DSAHomework2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4a6a9e29e191f6a529ce9eac1b384602258e2b79")]
 [assembly: System.Reflection.AssemblyProductAttribute("DSAHomework2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DSAHomework2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

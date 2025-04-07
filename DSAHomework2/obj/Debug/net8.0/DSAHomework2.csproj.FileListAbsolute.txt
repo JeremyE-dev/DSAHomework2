@@ -12,3 +12,4 @@ C:\DSA - UC San Diego\DSAHomework\DSAHomework2_All\DSAHomework2\DSAHomework2\obj
 C:\DSA - UC San Diego\DSAHomework\DSAHomework2_All\DSAHomework2\DSAHomework2\obj\Debug\net8.0\DSAHomework2.pdb
 C:\DSA - UC San Diego\DSAHomework\DSAHomework2_All\DSAHomework2\DSAHomework2\obj\Debug\net8.0\DSAHomework2.genruntimeconfig.cache
 C:\DSA - UC San Diego\DSAHomework\DSAHomework2_All\DSAHomework2\DSAHomework2\obj\Debug\net8.0\ref\DSAHomework2.dll
+C:\DSA - UC San Diego\DSAHomework\DSAHomework2_All\DSAHomework2\DSAHomework2\obj\Debug\net8.0\DSAHomework2.sourcelink.json
